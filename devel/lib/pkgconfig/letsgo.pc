@@ -1,0 +1,8 @@
+prefix=/home/vinh/vidu_01/devel
+
+Name: letsgo
+Description: Description of letsgo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
